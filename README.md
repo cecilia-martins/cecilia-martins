@@ -1,16 +1,19 @@
-### Hi there 👋
+## Olá :upside_down_face:
+<br />
 
-<!--
-**cecilia-martins/cecilia-martins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Meu github stats](https://github-readme-stats.vercel.app/api?username=cecilia-martins&show_icons=true&theme=buefy&count_private=true)
 
-Here are some ideas to get you started:
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cecilia-martins&repo=github-readme-stats&show_icons=true&theme=buefy&count_private=true)](https://github.com/cecilia-martins)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cecilia-martins&layout=compact&show_icons=true&theme=buefy&count_private=true)](https://github.com/cecilia-martins/github-readme-stats) -->
+
+<a href="(https://github.com/cecilia-martins/github-readme-stats)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cecilia-martins&layout=compact&show_icons=true&theme=buefy&count_private=true" />
+</a>
+<a href="https://github.com/cecilia-martins/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cecilia-martins&repo=github-readme-stats&show_icons=true&theme=buefy&count_private=true" />
+</a>
+<br />
+<br />
+
+<!-- ## Tecnologias que uso no meu dia-a-dia -->
