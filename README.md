@@ -15,7 +15,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cecilia-martins&repo=github-readme-stats&show_icons=true&theme=buefy&count_private=true" />
 </a> -->
   </div>
-<br /> -->
 <br />
-
-<!-- ## Tecnologias que uso no meu dia-a-dia -->
