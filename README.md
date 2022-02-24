@@ -1,5 +1,5 @@
-<h1 align="center">Olá, eu sou a Cecília! &#x1F643</h1>
-<br />
+<!-- <h1 align="center">Olá, eu sou a Cecília! &#x1F643</h1>
+<br /> -->
 
 ![Meu github stats](https://github-readme-stats.vercel.app/api?username=cecilia-martins&show_icons=true&theme=buefy&count_private=true)
 
@@ -7,7 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cecilia-martins&layout=compact&show_icons=true&theme=buefy&count_private=true)](https://github.com/cecilia-martins/github-readme-stats) -->
 
-<div>
+<!-- <div>
 <a href="(https://github.com/cecilia-martins/github-readme-stats)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cecilia-martins&layout=compact&show_icons=true&theme=buefy&count_private=true" />
 </a>
@@ -15,7 +15,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cecilia-martins&repo=github-readme-stats&show_icons=true&theme=buefy&count_private=true" />
 </a> -->
   </div>
-<br />
+<br /> -->
 <br />
 
 <!-- ## Tecnologias que uso no meu dia-a-dia -->
