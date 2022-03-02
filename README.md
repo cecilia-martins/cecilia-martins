@@ -1,12 +1,16 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Hi, i'm Cecília
 <br>
  
+### A little more about me... <br/>
 <!-- ### About me.. -->
+
 
 ### GitHub Stats
 <div>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=cecilia-martins&show_icons=true&theme=graywhite&count_private=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=cecilia-martins&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cecilia-martins&layout=compact&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cecilia-martins&layout=compact&theme=graywhite&show_icons=ture)](https://github.com/cecilia-martins/github-readme-stats) -->
@@ -28,7 +32,7 @@
 
 <!-- [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)]() -->
 
-### :hammer_and_wrench: Technologies and tools I use and/or am learning
+### :hammer_and_wrench: Languages and Tools
 
 <div style="display: inline_block"> <br/>
 
@@ -43,3 +47,4 @@
 ### <img src="https://media4.giphy.com/media/RIUgvgjw3D5Z1ZJSvv/200.webp?cid=ecf05e474o1dgujk3gggvb4u5pxfiqt956yb5vhqrqnacmwj&rid=200.webp&ct=s" width="40"> Projects
 
 <!-- [![]()]() -->
+
