@@ -1,7 +1,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Hi, i'm Cecília
 <br>
  
-### A little more about me... <br/>
+<!-- ### A little more about me... <br/> -->
 <!-- ### About me.. -->
 
 
