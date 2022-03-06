@@ -1,11 +1,11 @@
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Hi, i'm Cecília
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Hi, i'm Cecília and welcome to my profile!!!
 <br>
  
 <!-- ### A little more about me... <br/> -->
 <!-- ### About me.. -->
+<!-- <img src="https://media3.giphy.com/media/jQW5BKzm6QviJulgIy/giphy.gif?cid=ecf05e47o3tls4ncspuc2zv7yc9g113892h34xc3unlvs7zn&rid=giphy.gif&ct=ts" width="80"> -->
 
-
-### GitHub Stats
+### GitHub Stats 
 <div>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=cecilia-martins&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true)
@@ -18,7 +18,7 @@
 
 </div>
 
-### :upside_down_face: Let's get connected:
+### :upside_down_face: Let's get connected
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/CeciliaLiahMartins/)
