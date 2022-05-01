@@ -1,20 +1,19 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Hi, i'm Cecília and welcome to my profile!!!
 <br>
- 
-<!-- ### A little more about me... <br/> -->
-<!-- ### About me.. -->
-<!-- <img src="https://media3.giphy.com/media/jQW5BKzm6QviJulgIy/giphy.gif?cid=ecf05e47o3tls4ncspuc2zv7yc9g113892h34xc3unlvs7zn&rid=giphy.gif&ct=ts" width="80"> -->
+
+  <ul>
+    <li>🌎 I'm from Brasilia/Brazil</li>
+    <li>📚 I am currently studying full stack web development at Trybe</li>
+    <li>🎧 I love cats, tv shows, movies, music, technology</li>
+  </ul> 
+<br>
 
 ### GitHub Stats 
 <div>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=cecilia-martins&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cecilia-martins&layout=compact&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!-- [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cecilia-martins&layout=compact&theme=graywhite&show_icons=ture)](https://github.com/cecilia-martins/github-readme-stats) -->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cecilia-martins&langs_count=9&layout=compact&theme=graywhite&count_private=true)](https://github.com/cecilia-martins/github-readme-stats)
 
 </div>
 
