@@ -46,5 +46,12 @@
 
 ### <img src="https://media4.giphy.com/media/RIUgvgjw3D5Z1ZJSvv/200.webp?cid=ecf05e474o1dgujk3gggvb4u5pxfiqt956yb5vhqrqnacmwj&rid=200.webp&ct=s" width="40"> Projects
 
+  <!-- <details>
+    <summary>Bootcamp - Spread Fullstack Developer</summary>
+     <a href="">nome do projeto</a> - HTML/CSS<br/>
+     <a href="">nome do projeto</a> - Reactjs<br/>
+     <a href="">nome do projeto</a> - Typescript<br/>
+  </details> -->
+
 <!-- [![]()]() -->
 
