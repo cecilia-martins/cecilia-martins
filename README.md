@@ -4,7 +4,7 @@
   <ul>
     <li>🌎 I'm from Brasilia/Brazil</li>
     <li>📚 I am currently studying full stack web development at Trybe</li>
-    <li>🎧 I love cats, tv shows, movies, music, technology</li>
+    <li>🎧 I love cats, tv shows, movies, music, technology, food...</li>
   </ul> 
 <br>
 
