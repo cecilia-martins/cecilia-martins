@@ -11,8 +11,12 @@
 ### GitHub Stats 
 <div>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=cecilia-martins&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cecilia-martins&langs_count=9&layout=compact&theme=graywhite&count_private=true)](https://github.com/cecilia-martins/github-readme-stats)
+<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=cecilia-martins&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cecilia-martins&langs_count=9&layout=compact&theme=graywhite&count_private=true)](https://github.com/cecilia-martins/github-readme-stats) -->
+
+<a href="https://github.com/cecilia-martins">
+  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=cecilia-martins&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true"/>
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cecilia-martins&langs_count=9&layout=compact&theme=graywhite&count_private=true"/>
 
 </div>
 
@@ -22,9 +26,9 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cecilia-martinss)
 [![Hotmail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:cecilia_lmartins@hotmail.com)](mailto:cecilia_lmartins@hotmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/CeciliaLiahMartins/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lmartinssss/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://volt.fm/lmartins)
+<!-- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/CeciliaLiahMartins/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lmartinssss/) -->
 <!-- [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/cecilia_lmartins) -->
 <!-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]() -->
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]() -->
