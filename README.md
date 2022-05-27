@@ -12,7 +12,6 @@
 <div>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=cecilia-martins&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cecilia-martins&langs_count=9&layout=compact&theme=graywhite&count_private=true)](https://github.com/cecilia-martins/github-readme-stats)
 
 </div>
