@@ -8,7 +8,7 @@ Hi, I'm Cecília and welcome to my profile!!!
 
 - 📚 I'm currently **studying full stack web development at Trybe**
 
-- 🌱 I’m currently **learning Nodejs**
+- 🌱 Learning about **Back-End**
 
 - 📫 How to reach me **cecilia_lmartins@hotmail.com**
 
