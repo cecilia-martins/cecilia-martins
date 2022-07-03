@@ -44,9 +44,9 @@ Hi, I'm Cecília and welcome to my profile!!!
 ### :upside_down_face: Let's get connected
 
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/cecilia-martinss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/cecilia-martinss" width="30" /></a>
-<a href="mailto:cecilia_lmartins@hotmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/email-open.png" width="40"/></a>
-<a href="https://instagram.com/https://www.instagram.com/_lmartinssss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_lmartinssss/" width="30" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/cecilia-martinss" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com/in/cecilia-martinss" /></a>
+<a href="mailto:cecilia_lmartins@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+<a href="https://instagram.com/_lmartinssss/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="https://www.instagram.com/_lmartinssss/" /></a>
 
 </p>
 <br>
