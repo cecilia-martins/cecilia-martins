@@ -49,7 +49,6 @@ Hi, I'm Cecília and welcome to my profile!!!
 <a href="https://instagram.com/_lmartinssss/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="https://www.instagram.com/_lmartinssss/" /></a>
 
 </p>
-<br>
 
 ### <img src="https://media4.giphy.com/media/RIUgvgjw3D5Z1ZJSvv/200.webp?cid=ecf05e474o1dgujk3gggvb4u5pxfiqt956yb5vhqrqnacmwj&rid=200.webp&ct=s" width="40"> Projects
 
@@ -61,6 +60,8 @@ Hi, I'm Cecília and welcome to my profile!!!
   </details> -->
 
 <!-- [![]()]() -->
-<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cecilia-martins&label=Profile%20views&color=0e75b6&style=flat" alt="cecilia-martins" /> </p>
+<div align="right">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=cecilia_lmartins&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="cecilia-martins" href="https://spotify-github-profile.vercel.app/api/view?uid=cecilia_lmartins&redirect=true"/>
+
+<img align="left" src="https://komarev.com/ghpvc/?username=cecilia-martins&label=Profile%20views&color=0e75b6&style=flat" alt="cecilia-martins" /> </div>
