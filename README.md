@@ -12,7 +12,7 @@ Hi, I'm Cecília and welcome to my profile!!!
 
 - 📫 How to reach me **cecilia_lmartins@hotmail.com**
 
-- 🍇 Fun fact **I love cats!** And **grape is my favorite fruit**
+<!-- - 🍇 Fun fact **I love cats!** And **grape is my favorite fruit** -->
 
 ### :octocat: Github Stats
 <div>
