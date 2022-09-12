@@ -1,7 +1,7 @@
-<h1 align="center">
+<h2 align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 Hi, I'm Cecília and welcome to my profile!!!
-</h1>
+</h2>
 
 
 - 🌎 I'm from **Brasilia/Brazil**
