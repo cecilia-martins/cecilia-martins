@@ -59,6 +59,8 @@ Hi, I'm Cecília and welcome to my profile!!!
 <!-- [![]()]() -->
 <br>
 <br>
+<br>
+<br>
 <div align="center">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=cecilia_lmartins&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="cecilia-martins" href="https://spotify-github-profile.vercel.app/api/view?uid=cecilia_lmartins&redirect=true"/>
 
