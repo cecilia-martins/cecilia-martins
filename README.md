@@ -6,7 +6,7 @@ Hi, I'm Cecília and welcome to my profile!!!
 
 - 🌎 I'm from **Brasilia/Brazil**
 - 📚 I'm currently **studying full stack web development at Trybe**
-- 🌱 Learning about **Back-End**
+- 🌱 Learning **Python**
 - 📫 How to reach me **cecilia_lmartins@hotmail.com**
 
 <!-- - 🍇 Fun fact **I love cats!** And **grape is my favorite fruit** -->
