@@ -12,12 +12,7 @@ Hi, I'm Cecília and welcome to my profile!!!
 <!-- - 🍇 Fun fact **I love cats!** And **grape is my favorite fruit** -->
 
 <!-- ### :octocat: Github Stats -->
-<div>
-<a href="https://github.com/cecilia-martins">
-  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=cecilia-martins&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true"/>
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cecilia-martins&langs_count=9&layout=compact&theme=graywhite&count_private=true"/>
-</a>
-</div>
+
 
 <!-- ### :hammer_and_wrench: Languages and Tools -->
 <br>
