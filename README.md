@@ -15,8 +15,8 @@ Hi, I'm Cecília and welcome to my profile!!!
 
 <div>
 <a href="https://github.com/cecilia-martins">
-  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=cecilia-martins&show_icons=true&theme=swift&count_private=true&include_all_commits=true"/>
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cecilia-martins&langs_count=9&layout=compact&theme=swift&count_private=true"/>
+  <img width="52%" src="https://ceciliamartinss-github-readme-stats.vercel.app/api?username=cecilia-martins&show_icons=true&theme=swift&count_private=true&include_all_commits=true"/>
+  <img width="38%" src="https://ceciliamartinss-github-readme-stats.vercel.app/api/top-langs/?username=cecilia-martins&langs_count=9&layout=compact&theme=swift&count_private=true"/>
 </a>
 </div>
 
