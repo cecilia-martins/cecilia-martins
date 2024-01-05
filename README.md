@@ -1,17 +1,17 @@
 <h3 align="center">
-Hi, I'm Cecília and welcome to my profile!!!
-</h3>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+Olá, eu sou a Cecília ✌️
+</h3>
 
-- 🌎 I'm from **Brasilia/Brazil**
-- 📚 I'm currently **studying Information Systems at IESB**
-- 🌱 Learning **Front End & UX/UI Design**
-- 📫 How to reach me **cecilia_lmartins@hotmail.com**
+- 🌎 Eu sou de **Brasilia/Brasil**
+- 👩🏻‍💻 Formada em Desenvolvimento Web Full Stack na **Trybe**;
+- 📚 Atualmente cursando **Sistemas de Informação** no **IESB**
+- 🌱 Aprendendo **Front End & UX/UI Design**
+- 😺 Alguns dos meus hobbies são livros, séries, filmes e gatos;
+- 📫 Entre em contato comigo pelo email **cecilia_lmartins@hotmail.com**
 <br>
 
 <!-- - 🍇 Fun fact **I love cats!** And **grape is my favorite fruit** -->
-
-<!-- ### :octocat: Github Stats -->
 
 <div>
 <a href="https://github.com/cecilia-martins">
@@ -20,9 +20,9 @@ Hi, I'm Cecília and welcome to my profile!!!
 </a>
 </div>
 
-<!-- ### :hammer_and_wrench: Languages and Tools -->
+### Ferramentas e Linguagens
 <br>
-<p align="center">
+<div align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/></a>
@@ -49,7 +49,7 @@ Hi, I'm Cecília and welcome to my profile!!!
 <a href="https://linkedin.com/in/linkedin.com/in/cecilia-martinss" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com/in/cecilia-martinss" /></a>
 <a href="mailto:cecilialmartins96@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-</p>
+</div>
 
 <!-- ### <img src="https://media4.giphy.com/media/RIUgvgjw3D5Z1ZJSvv/200.webp?cid=ecf05e474o1dgujk3gggvb4u5pxfiqt956yb5vhqrqnacmwj&rid=200.webp&ct=s" width="40"> Projects -->
 
