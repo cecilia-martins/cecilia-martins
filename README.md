@@ -2,9 +2,9 @@
 
 
 - 🌎 Eu sou de **Brasilia/Brasil**
-- 👩🏻‍💻 Formada em Desenvolvimento Web Full Stack na **Trybe**;
+- 👩🏻‍💻 Formada em Desenvolvimento Web Full Stack na **Trybe**
 - 📚 Atualmente cursando **Sistemas de Informação** no **IESB**
-- 😺 Alguns dos meus hobbies são livros, séries, filmes e gatos;
+- 😺 Alguns dos meus hobbies são livros, séries, filmes e gatos
 - 📫 Entre em contato comigo pelo email **cecilia_lmartins@hotmail.com**
 <!-- - 🌱 Aprendendo **Front End & UX/UI Design** -->
 <br>
