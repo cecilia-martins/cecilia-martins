@@ -77,9 +77,10 @@
 
 ## ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 <div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=cecilia_lmartins&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="cecilia-martins" href="https://spotify-github-profile.vercel.app/api/view?uid=cecilia_lmartins&redirect=true"/>
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=cecilia_lmartins&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="cecilia-martins spotify" href="https://spotify-github-profile.kittinanx.com/api/view?uid=cecilia_lmartins&redirect=true"/>
 
 <img align="left" src="https://komarev.com/ghpvc/?username=cecilia-martins&label=Profile%20views&color=0e75b6&style=flat" alt="cecilia-martins" /> </div>
+
 
 
 
